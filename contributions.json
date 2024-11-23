@@ -1,0 +1,1154 @@
+{
+  "did:plc:4iclppomf3wagequyumxle56": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Health Professionals",
+      "Real Estate",
+      "Building Trade Unions",
+      "Public Sector Unions"
+    ],
+    "contributors": [
+      "Laborers Union/Midwest Region",
+      "American Federation of State/Cnty/Munic Employees",
+      "National Beer Wholesalers Assn",
+      "American Assn for Justice",
+      "Machinists/Aerospace Workers Union"
+    ]
+  },
+  "did:plc:sxlmmrg3y4vqb5uzn2rvgwhi": {
+    "industries": [
+      "Pharmaceuticals/Health Products",
+      "Health Professionals",
+      "Lawyers/Law Firms",
+      "Building Trade Unions",
+      "Public Sector Unions"
+    ],
+    "contributors": [
+      "Blue Cross/Blue Shield",
+      "Service Employees International Union",
+      "United Food & Commercial Workers Union",
+      "Laborers Union",
+      "National Assn of Realtors"
+    ]
+  },
+  "did:plc:pvnyzk5bbn4qy3cqniz32hmp": {
+    "industries": [
+      "Securities & Investment",
+      "Misc Manufacturing & Distributing",
+      "Retired",
+      "Republican/Conservative",
+      "Health Professionals"
+    ],
+    "contributors": [
+      "Club for Growth",
+      "Michigan Industrial Tools",
+      "Amway/Alticor Inc",
+      "S Abraham & Sons",
+      "Windquest Group"
+    ]
+  },
+  "did:plc:2tjnqjbnqampayvk4hez7q3h": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Education",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "University of Chicago",
+      "JStreetPAC",
+      "Northwestern University",
+      "University of Illinois",
+      "US Dept of Energy"
+    ]
+  },
+  "did:plc:cclahqgtsbrimiw75onlpj7o": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Women's Issues",
+      "Lobbyists",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "Microsoft Corp",
+      "EMILY's List",
+      "University of Washington",
+      "Boeing Co",
+      "Amazon.com"
+    ]
+  },
+  "did:plc:mjobm7kwzpta3ccegkcuqlwm": {
+    "industries": [
+      "Defense Aerospace",
+      "Electronics Mfg & Equip",
+      "Lawyers/Law Firms",
+      "Misc Defense",
+      "Lobbyists"
+    ],
+    "contributors": [
+      "Microsoft Corp",
+      "American Israel Public Affairs Cmte",
+      "Boeing Co",
+      "Northrop Grumman",
+      "Lockheed Martin"
+    ]
+  },
+  "did:plc:a23utge5gk6ckgm3ypx3weyr": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Women's Issues",
+      "Lobbyists",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "Microsoft Corp",
+      "EMILY's List",
+      "University of Washington",
+      "Boeing Co",
+      "Amazon.com"
+    ]
+  },
+  "did:plc:fqxafj6jkzhozzdzsgrifjxo": {
+    "industries": [
+      "Securities & Investment",
+      "Retired",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Leadership PACs"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "KLM Equities",
+      "Patterson Planning & Services",
+      "Palantir Technologies",
+      "AmeriPAC: The Fund for a Greater America"
+    ]
+  },
+  "did:plc:tzo735bnqahgmrb66gm4ny5s": {
+    "industries": [
+      "Pro-Israel",
+      "Retired",
+      "Health Professionals",
+      "Human Rights",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "Indian American Impact Fund",
+      "Edward C Levy Co",
+      "Star Pipe Products",
+      "General Motors"
+    ]
+  },
+  "did:plc:f5aicufsf2vpuwte6wizoy2v": {
+    "industries": [
+      "Retired",
+      "Non-Profit Institutions",
+      "Electronics Mfg & Equip",
+      "Lawyers/Law Firms",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "Microsoft Corp",
+      "University of Washington",
+      "Valve Corp",
+      "Service Employees International Union",
+      "Amazon.com"
+    ]
+  },
+  "did:plc:zlekb26g7abqatkw442bq635": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Leadership PACs",
+      "Securities & Investment",
+      "Lobbyists"
+    ],
+    "contributors": [
+      "League of Conservation Voters",
+      "JStreetPAC",
+      "Kobayashi, Sugita & Goda",
+      "Martin Defense Group",
+      "Matson Inc"
+    ]
+  },
+  "did:plc:wfovpxilrfvxvyecoguoza3y": {
+    "industries": [
+      "Securities & Investment",
+      "Retired",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Education"
+    ],
+    "contributors": [
+      "League of Conservation Voters",
+      "University of Colorado",
+      "Blackstone Group",
+      "Oaktree Capital Management",
+      "Brownstein, Hyatt et al"
+    ]
+  },
+  "did:plc:o4nzn4wcjgsqdxwnduydm2a5": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Real Estate",
+      "Public Sector Unions",
+      "Transportation Unions"
+    ],
+    "contributors": [
+      "National Beer Wholesalers Assn",
+      "American Federation of Teachers",
+      "National Air Traffic Controllers Assn",
+      "National Assn of Realtors",
+      "American Assn for Justice"
+    ]
+  },
+  "did:plc:5bl2qrmv4oubrlyg7eavvjm2": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "Health Professionals",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "Munger, Tolles & Olson",
+      "Every State Blue",
+      "Seville Classics",
+      "Jeffer, Mangels et al",
+      "Trendnet Inc"
+    ]
+  },
+  "did:plc:66gjeje75ogyx3jxfelyz47i": {
+    "industries": [
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "Insurance"
+    ],
+    "contributors": [
+      "University of Pennsylvania",
+      "Comcast Corp",
+      "National Assn of Realtors",
+      "Ballard Spahr LLP",
+      "American Crystal Sugar"
+    ]
+  },
+  "did:plc:jzddf45ucyezwahi5ffxjpws": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Education",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "University of Chicago",
+      "JStreetPAC",
+      "Northwestern University",
+      "University of Illinois",
+      "US Dept of Energy"
+    ]
+  },
+  "did:plc:y37ival3xz7gcwuvmvit7bz3": {
+    "industries": [
+      "Retired",
+      "Health Professionals",
+      "Education",
+      "Leadership PACs",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "JStreetPAC",
+      "University of Pittsburgh",
+      "Service Employees International Union",
+      "UPMC Health System",
+      "University of California"
+    ]
+  },
+  "did:plc:a4vpio4bg7nnvmwolyyw5t72": {
+    "industries": [
+      "Retired",
+      "Human Rights",
+      "Democratic/Liberal",
+      "Leadership PACs",
+      "Lawyers/Law Firms"
+    ],
+    "contributors": [
+      "State of Vermont",
+      "Equality Project PAC",
+      "JStreetPAC",
+      "American Assn for Justice",
+      "Equality PAC"
+    ]
+  },
+  "did:plc:lrw4cnptopspeg5tthztcliw": {
+    "industries": [
+      "Retired",
+      "Health Professionals",
+      "Public Sector Unions",
+      "Building Trade Unions",
+      "Industrial Unions"
+    ],
+    "contributors": [
+      "University of Wisconsin",
+      "Service Employees International Union",
+      "National Education Assn",
+      "Operating Engineers Union",
+      "American Federation of Teachers"
+    ]
+  },
+  "did:plc:sioeztc3ud2jotsgdgvqxbbo": {
+    "industries": [
+      "Health Professionals",
+      "Lawyers/Law Firms",
+      "Automotive",
+      "Electric Utilities",
+      "Retired"
+    ],
+    "contributors": [
+      "University of Michigan",
+      "Ford Motor Co",
+      "Rock Holdings",
+      "DTE Energy",
+      "Boeing Co"
+    ]
+  },
+  "did:plc:3dq2yyzn4vuzpyaezxr6vtnf": {
+    "industries": [
+      "Securities & Investment",
+      "Retired",
+      "Electronics Mfg & Equip",
+      "Lawyers/Law Firms",
+      "Internet"
+    ],
+    "contributors": [
+      "Alphabet Inc",
+      "Wilson, Sonsini et al",
+      "Stanford University",
+      "Accel Partners",
+      "University of California"
+    ]
+  },
+  "did:plc:hsd6gnddmn62f5d2r3jzqsry": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Leadership PACs",
+      "Real Estate"
+    ],
+    "contributors": [
+      "AmeriPAC: The Fund for a Greater America",
+      "SAS Institute",
+      "American Israel Public Affairs Cmte",
+      "Fair Shot PAC",
+      "North Carolina State University"
+    ]
+  },
+  "did:plc:37tzj3zwbftnhhuanx57mxu2": {
+    "industries": [
+      "Health Professionals",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "Insurance"
+    ],
+    "contributors": [
+      "University of South Florida",
+      "National Assn of Realtors",
+      "International Brotherhood of Electrical Workers",
+      "American Hospital Assn",
+      "Service Employees International Union"
+    ]
+  },
+  "did:plc:uyfv4rcoc2v42wmconn3ln47": {
+    "industries": [
+      "Public Sector Unions",
+      "Transportation Unions",
+      "Industrial Unions",
+      "Lawyers/Law Firms",
+      "Building Trade Unions"
+    ],
+    "contributors": [
+      "American Federation of Teachers",
+      "American Federation of State/Cnty/Munic Employees",
+      "Machinists/Aerospace Workers Union",
+      "Service Employees International Union",
+      "National Education Assn"
+    ]
+  },
+  "did:plc:uyapb4exdlyrr6fkicrccm3v": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Pro-Israel",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "Searcy, Denney et al",
+      "Florida Crystals",
+      "Southern Glazer's Wine & Spirits",
+      "Blackstone Group"
+    ]
+  },
+  "did:plc:ptvnknkdb6fwpp26t5tn4nki": {
+    "industries": [
+      "Insurance",
+      "Securities & Investment",
+      "Public Sector Unions",
+      "Commercial Banks",
+      "Real Estate"
+    ],
+    "contributors": [
+      "American Federation of Teachers",
+      "United Auto Workers",
+      "American Bankers Assn",
+      "Machinists/Aerospace Workers Union",
+      "National Assn of Insurance & Financial Advisors"
+    ]
+  },
+  "did:plc:mnm2mri5k4vu72ld67v6fgbf": {
+    "industries": [
+      "Securities & Investment",
+      "Pharmaceuticals/Health Products",
+      "Real Estate",
+      "Lawyers/Law Firms",
+      "Insurance"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "JStreetPAC",
+      "Capital Group Companies",
+      "RTX Corp",
+      "Liberty Mutual"
+    ]
+  },
+  "did:plc:dhvvqy2dcefrk35kudxclkyd": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Securities & Investment",
+      "Automotive"
+    ],
+    "contributors": [
+      "Akin, Gump et al",
+      "Freedom Capital Partners",
+      "Kitebrook Partners",
+      "NVR Inc",
+      "American Institute of CPAs"
+    ]
+  },
+  "did:plc:qqixzm5pwprzdnkbh2hglpax": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Retired",
+      "Leadership PACs",
+      "Real Estate"
+    ],
+    "contributors": [
+      "League of Conservation Voters",
+      "American Israel Public Affairs Cmte",
+      "Technology Crossover Ventures",
+      "Motley Rice LLC",
+      "Thornton Law Firm"
+    ]
+  },
+  "did:plc:zkegd2ivd2z6mmlfppute6zj": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Retired",
+      "Lobbyists",
+      "Real Estate"
+    ],
+    "contributors": [
+      "WilmerHale LLP",
+      "Harvard University",
+      "League of Conservation Voters",
+      "DLA Piper",
+      "Mintz, Levin et al"
+    ]
+  },
+  "did:plc:67vugavgzxuc64jxpv4cqwbi": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Lobbyists",
+      "Leadership PACs",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "League of Conservation Voters",
+      "University of New Mexico",
+      "JStreetPAC",
+      "MMR Group",
+      "NextEra Energy"
+    ]
+  },
+  "did:plc:fxlyr6bdsgo5luhsz7hzzrta": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Retired",
+      "Real Estate",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "Paul, Weiss et al",
+      "NorPAC",
+      "Gibbons PC",
+      "Sullivan & Cromwell",
+      "Stanford University"
+    ]
+  },
+  "did:plc:6fm2lhrkemwwzxw6kejxqwtt": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Retired",
+      "Real Estate",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "Paul, Weiss et al",
+      "NorPAC",
+      "Gibbons PC",
+      "Sullivan & Cromwell",
+      "Stanford University"
+    ]
+  },
+  "did:plc:ydtsvzzsl6nlfkmnuooeqcmc": {
+    "industries": [
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Health Professionals",
+      "Real Estate",
+      "Retired"
+    ],
+    "contributors": [
+      "Nike Inc",
+      "Blue Cross/Blue Shield",
+      "Intel Corp",
+      "Akin, Gump et al",
+      "Oregon Health & Science University"
+    ]
+  },
+  "did:plc:ri2qkcjghvcwv6gsi4vglnfz": {
+    "industries": [
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "Lobbyists"
+    ],
+    "contributors": [
+      "Dominion Energy",
+      "Altria Group",
+      "JPMorgan Chase & Co",
+      "Norfolk Southern",
+      "McGuireWoods LLP"
+    ]
+  },
+  "did:plc:mnni4exuqf2rvvsvxc5q4pb2": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Retired",
+      "Real Estate",
+      "TV/Movies/Music"
+    ],
+    "contributors": [
+      "Hueston Hennigan Llp",
+      "Comcast Corp",
+      "Cotchett, Pitre & McCarthy",
+      "Edison International",
+      "E&J Gallo Winery"
+    ]
+  },
+  "did:plc:kpxcztsqfrzkbd4ve3xvdzco": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Health Professionals",
+      "Real Estate",
+      "Civil Servants/Public Officials"
+    ],
+    "contributors": [
+      "Miller Weisbrod Olesky",
+      "American Assn for Justice",
+      "Ame Church",
+      "Karla T Jurvetson MD",
+      "Matthews Southwest"
+    ]
+  },
+  "did:plc:hmy4bopsymtjikfq5i5mekn6": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Education",
+      "Health Professionals",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "JStreetPAC",
+      "Alphabet Inc",
+      "University of Pennsylvania",
+      "University of California",
+      "UPMC Health System"
+    ]
+  },
+  "did:plc:wo5kzzdgqwzizeyvg5bkaswh": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Retired",
+      "Lobbyists",
+      "Real Estate"
+    ],
+    "contributors": [
+      "WilmerHale LLP",
+      "Harvard University",
+      "League of Conservation Voters",
+      "DLA Piper",
+      "Mintz, Levin et al"
+    ]
+  },
+  "did:plc:dqj6ug6nsm7giy3xd4dpuhmx": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Women's Issues",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "EMILY's List",
+      "University of Minnesota",
+      "Capital Group Companies",
+      "State of Minnesota",
+      "Wells Fargo"
+    ]
+  },
+  "did:plc:p7gxyfr5vii5ntpwo7f6dhe2": {
+    "industries": [
+      "Retired",
+      "Education",
+      "Health Professionals",
+      "Civil Servants/Public Officials",
+      "Electronics Mfg & Equip"
+    ],
+    "contributors": [
+      "University of California",
+      "Alphabet Inc",
+      "City of New York, NY",
+      "Amazon.com",
+      "City University of New York"
+    ]
+  },
+  "did:plc:nz2evspehqdvsmeiw5yjeh2k": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Women's Issues",
+      "Leadership PACs",
+      "Real Estate"
+    ],
+    "contributors": [
+      "EMILY's List",
+      "University of Arizona",
+      "Democratic Congressional Campaign Cmte",
+      "Lewis & Roca",
+      "Pederson Group"
+    ]
+  },
+  "did:plc:asen5jbvakk5llvcgcn27h6r": {
+    "industries": [
+      "Industrial Unions",
+      "Retired",
+      "Building Trade Unions",
+      "Public Sector Unions",
+      "Transportation Unions"
+    ],
+    "contributors": [
+      "Machinists/Aerospace Workers Union",
+      "Boilermakers Union",
+      "Sheet Metal, Air, Rail & Transportation Union",
+      "United Auto Workers",
+      "Teamsters Union"
+    ]
+  },
+  "did:plc:doajlmltxccf7dafbcp5pj4g": {
+    "industries": [
+      "Securities & Investment",
+      "Insurance",
+      "Retired",
+      "Lawyers/Law Firms",
+      "Real Estate"
+    ],
+    "contributors": [
+      "Goldman Sachs",
+      "GE Aerospace",
+      "Citigroup Inc",
+      "JPMorgan Chase & Co",
+      "Fermat Capital Management"
+    ]
+  },
+  "did:plc:sev7jknumqveggon3ourlliw": {
+    "industries": [
+      "Retired",
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Education",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "JStreetPAC",
+      "Princeton University",
+      "Alphabet Inc",
+      "League of Conservation Voters",
+      "Rutgers University"
+    ]
+  },
+  "did:plc:3kapv2cmc5r6ehswf6nwo5wt": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Building Trade Unions",
+      "Real Estate",
+      "Misc Unions"
+    ],
+    "contributors": [
+      "Service Employees International Union",
+      "UNITE HERE",
+      "City of Austin, TX",
+      "Carpenters & Joiners Union",
+      "Machinists/Aerospace Workers Union"
+    ]
+  },
+  "did:plc:zowy6ovke2owprs5btzet3uy": {
+    "industries": [
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "TV/Movies/Music"
+    ],
+    "contributors": [
+      "Goldman Sachs",
+      "Paul, Weiss et al",
+      "Citigroup Inc",
+      "Blackstone Group",
+      "JPMorgan Chase & Co"
+    ]
+  },
+  "did:plc:tax3e7cjn3dzxpgfjslqq56y": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Health Professionals",
+      "Real Estate",
+      "Civil Servants/Public Officials"
+    ],
+    "contributors": [
+      "Miller Weisbrod Olesky",
+      "American Assn for Justice",
+      "Ame Church",
+      "Karla T Jurvetson MD",
+      "Matthews Southwest"
+    ]
+  },
+  "did:plc:tyr7iqmghpf5qxvqvhblwj5f": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Health Professionals",
+      "Transportation Unions",
+      "Public Sector Unions"
+    ],
+    "contributors": [
+      "Machinists/Aerospace Workers Union",
+      "Sheet Metal, Air, Rail & Transportation Union",
+      "Carpenters & Joiners Union",
+      "American Crystal Sugar",
+      "Painters & Allied Trades Union"
+    ]
+  },
+  "did:plc:hmstk6czb32dv4xjx4s3xhda": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Insurance",
+      "Building Trade Unions",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "Comcast Corp",
+      "Duane Morris LLP",
+      "Blue Cross/Blue Shield",
+      "Commonwealth of Pennsylvania",
+      "United Food & Commercial Workers Union"
+    ]
+  },
+  "did:plc:k4kp7p2lfe2fz6z2u26yslv4": {
+    "industries": [
+      "Retired",
+      "Securities & Investment",
+      "Real Estate",
+      "TV/Movies/Music",
+      "Lawyers/Law Firms"
+    ],
+    "contributors": [
+      "Amblin Partners",
+      "Smarthinking",
+      "Vezina, Lawrence & Piscitelli",
+      "Service Employees International Union",
+      "Communications Workers of America"
+    ]
+  },
+  "did:plc:gzrecn3lwymykpn5qg47n2is": {
+    "industries": [
+      "Retired",
+      "Health Professionals",
+      "Education",
+      "Electronics Mfg & Equip",
+      "Real Estate"
+    ],
+    "contributors": [
+      "University of California",
+      "Alphabet Inc",
+      "University of Minnesota",
+      "Apple Inc",
+      "National Education Assn"
+    ]
+  },
+  "did:plc:prz5uxnf5czbjqzyi4elwatg": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "Securities & Investment",
+      "Health Professionals"
+    ],
+    "contributors": [
+      "Arizona State University",
+      "Snell & Wilmer",
+      "American Israel Public Affairs Cmte",
+      "Salt River Project",
+      "Blue Cross/Blue Shield"
+    ]
+  },
+  "did:plc:mu6rcpl4wx7wdcgu3eqmha3u": {
+    "industries": [
+      "Education",
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Retired",
+      "Civil Servants/Public Officials"
+    ],
+    "contributors": [
+      "US Dept of Energy",
+      "University of Chicago",
+      "JStreetPAC",
+      "University of California",
+      "Stanford University"
+    ]
+  },
+  "did:plc:ep4zjgwunggbrulratfpfj7h": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Retired",
+      "Health Professionals",
+      "Securities & Investment"
+    ],
+    "contributors": [
+      "Munger, Tolles & Olson",
+      "Every State Blue",
+      "Seville Classics",
+      "Jeffer, Mangels et al",
+      "Trendnet Inc"
+    ]
+  },
+  "did:plc:74zycyzzi7wg26nudctnc55p": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Health Professionals",
+      "Public Sector Unions",
+      "Misc Manufacturing & Distributing"
+    ],
+    "contributors": [
+      "Nike Inc",
+      "Perkins Coie",
+      "Service Employees International Union",
+      "Intel Corp",
+      "America's Credit Unions"
+    ]
+  },
+  "did:plc:7pneu4er4i6cilvij3mxaioj": {
+    "industries": [
+      "Real Estate",
+      "Retired",
+      "Human Rights",
+      "Business Services",
+      "Lobbyists"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "Waterford Property Co",
+      "Curtin Maritime",
+      "Service Employees International Union",
+      "Carpenters & Joiners Union"
+    ]
+  },
+  "did:plc:dc6lrdlvden2l2qiilmgfyk5": {
+    "industries": [
+      "Retired",
+      "Education",
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Health Professionals"
+    ],
+    "contributors": [
+      "Harvard University",
+      "Service Employees International Union",
+      "University of Massachusetts",
+      "New Boston Ventures",
+      "Massachusetts Institute of Technology"
+    ]
+  },
+  "did:plc:dgpyzapw4a7zve5qy2qjqpfx": {
+    "industries": [
+      "Retired",
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Women's Issues",
+      "Business Services"
+    ],
+    "contributors": [
+      "Paloma Partners",
+      "EMILY's List",
+      "Machinists/Aerospace Workers Union",
+      "American Federation of Teachers",
+      "Laborers Union"
+    ]
+  },
+  "did:plc:eqnxa74cjky7ulymsytom6l3": {
+    "industries": [
+      "Transportation Unions",
+      "Air Transport",
+      "Public Sector Unions",
+      "Lawyers/Law Firms",
+      "Crop Production & Basic Processing"
+    ],
+    "contributors": [
+      "FedEx Corp",
+      "Federal Aviation Admin Managers Assn",
+      "Allied Pilots Assn",
+      "American Assn for Justice",
+      "American Crystal Sugar"
+    ]
+  },
+  "did:plc:op4eyhp6ewgdmz6wc3gop27b": {
+    "industries": [
+      "Securities & Investment",
+      "Real Estate",
+      "Pro-Israel",
+      "Lawyers/Law Firms",
+      "Retired"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "NorPAC",
+      "Blackstone Group",
+      "Apollo Global Management",
+      "Elliott Management"
+    ]
+  },
+  "did:plc:lbrl22j6iuykibdha2cq2e44": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Real Estate",
+      "Securities & Investment",
+      "Health Professionals"
+    ],
+    "contributors": [
+      "Mackenzie Capital Management",
+      "Law Offices of Jeremy D Weinstein",
+      "PG&E Corp",
+      "Meta",
+      "Another Planet Entertainment"
+    ]
+  },
+  "did:plc:upw5n2uwhzubjajdtqaufsek": {
+    "industries": [
+      "Education",
+      "Democratic/Liberal",
+      "Retired",
+      "Health Professionals",
+      "Civil Servants/Public Officials"
+    ],
+    "contributors": [
+      "University of California",
+      "Alphabet Inc",
+      "Amazon.com",
+      "Microsoft Corp",
+      "Apple Inc"
+    ]
+  },
+  "did:plc:acesiire326u4l3lqssgbdl6": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Securities & Investment",
+      "Education",
+      "Women's Issues"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "EMILY's List",
+      "University of California",
+      "Alphabet Inc",
+      "League of Conservation Voters"
+    ]
+  },
+  "did:plc:snct54nd4ve2j46f5cfhlr5e": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Education",
+      "Democratic/Liberal",
+      "Real Estate"
+    ],
+    "contributors": [
+      "American University",
+      "Georgetown University",
+      "JStreetPAC",
+      "University of Maryland",
+      "US Dept of Health & Human Services"
+    ]
+  },
+  "did:plc:lwhbdld4x7c557vszdr2qyvq": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Real Estate",
+      "Building Trade Unions",
+      "Insurance",
+      "Construction Services"
+    ],
+    "contributors": [
+      "Conner, Strong & Buckelew",
+      "American Israel Public Affairs Cmte",
+      "Blue Cross/Blue Shield",
+      "Holtec International",
+      "Gibbons PC"
+    ]
+  },
+  "did:plc:7b4ba4ialztxqftfvmmqv4il": {
+    "industries": [
+      "Retired",
+      "Lawyers/Law Firms",
+      "Leadership PACs",
+      "Health Professionals",
+      "Transportation Unions"
+    ],
+    "contributors": [
+      "University of California",
+      "Blue Cross/Blue Shield",
+      "EMILY's List",
+      "Rustic Canyon Partners",
+      "Operating Engineers Union"
+    ]
+  },
+  "did:plc:ec6eemidhhmbdlftlnrkhaxj": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Health Professionals",
+      "Real Estate",
+      "Beer, Wine & Liquor"
+    ],
+    "contributors": [
+      "Brown-Forman Corp",
+      "American Israel Public Affairs Cmte",
+      "Norton Healthcare",
+      "Kidz Club",
+      "Frost Brown Todd LLC"
+    ]
+  },
+  "did:plc:xkz7mjtnfpqhpvc57o2fqswm": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Real Estate",
+      "Securities & Investment",
+      "Public Sector Unions"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "Holland & Hart",
+      "Brownstein, Hyatt et al",
+      "State of Colorado",
+      "DISH Network"
+    ]
+  },
+  "did:plc:xdnwwjadunoibq3ca75vcol6": {
+    "industries": [
+      "Retired",
+      "Leadership PACs",
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Education"
+    ],
+    "contributors": [
+      "American Israel Public Affairs Cmte",
+      "JStreetPAC",
+      "State of Illinois",
+      "Swing Left",
+      "Digidems PAC"
+    ]
+  },
+  "did:plc:uzcbz3hsqpwdv5ulkxqa2ubn": {
+    "industries": [
+      "Retired",
+      "Securities & Investment",
+      "Lawyers/Law Firms",
+      "Leadership PACs",
+      "Democratic/Liberal"
+    ],
+    "contributors": [
+      "University of California",
+      "Alphabet Inc",
+      "JStreetPAC",
+      "American Israel Public Affairs Cmte",
+      "Walt Disney Co"
+    ]
+  },
+  "did:plc:4lyy4pdiinlt7yau7ptcqe4z": {
+    "industries": [
+      "Lawyers/Law Firms",
+      "Retired",
+      "Securities & Investment",
+      "Real Estate",
+      "Education"
+    ],
+    "contributors": [
+      "JStreetPAC",
+      "Covington & Burling",
+      "League of Conservation Voters",
+      "University of Virginia",
+      "Akin, Gump et al"
+    ]
+  }
+}
