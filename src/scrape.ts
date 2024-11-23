@@ -1,5 +1,4 @@
 import "dotenv/config";
-
 import { chromium } from "playwright";
 import { AtpAgent } from "@atproto/api";
 import fs from "fs";
@@ -8,8 +7,13 @@ import { HandleResolver } from "@atproto/identity";
 const agent = new AtpAgent({ service: "https://bsky.social" });
 const outputFile = "contributions.json";
 const baseurl = "https://www.opensecrets.org/search";
-const currentOutput = fs.readFileSync(outputFile, "utf8");
+
+// Load or initialize the output data
+const currentOutput = fs.existsSync(outputFile)
+  ? fs.readFileSync(outputFile, "utf8")
+  : "{}";
 const map = JSON.parse(currentOutput || "{}");
+
 const browser = await chromium.launch({ headless: false });
 
 async function scrapeOpenData(name: string) {
@@ -51,7 +55,7 @@ async function scrapeOpenData(name: string) {
 
 async function scrapeDataForList(list: string) {
   await agent.login({
-    identifier: "us-gov-funding.bsky.social",
+    identifier: "ts4labels.bsky.social", // Update with your Bluesky identifier
     password: process.env.LABELER_PASSWORD!,
   });
   const response = await agent.app.bsky.graph.getList({
@@ -81,12 +85,11 @@ async function scrapeDataForList(list: string) {
   }
 
   await agent.logout();
-  // await browser.close();
 }
 
 async function scrapeDataForHandle(handle: string) {
   await agent.login({
-    identifier: "us-gov-funding.bsky.social",
+    identifier: "ts4labels.bsky.social", // Update with your Bluesky identifier
     password: process.env.LABELER_PASSWORD!,
   });
 
@@ -104,7 +107,6 @@ async function scrapeDataForHandle(handle: string) {
     actor: did,
   });
 
-  // response.data.displayName = "Bernie Sanders";
   if (!response.data.displayName) {
     console.log(`No display name for ${handle}`);
     return;
@@ -118,6 +120,10 @@ async function scrapeDataForHandle(handle: string) {
   await agent.logout();
 }
 
-// scrapeDataForList(`at://${process.env.DID}/app.bsky.graph.list/3lbgx3lqlwk2d`);
+// Uncomment one of the lines below to test:
 
-scrapeDataForHandle("timkaine.bsky.social");
+// To scrape a list
+// scrapeDataForList(`at://${process.env.DID}/app.bsky.graph.list/YOUR_LIST_ID_HERE`);
+
+// To scrape a single handle
+scrapeDataForHandle("yourhandle.bsky.social");
