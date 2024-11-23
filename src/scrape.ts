@@ -126,4 +126,4 @@ async function scrapeDataForHandle(handle: string) {
 // scrapeDataForList(`at://${process.env.DID}/app.bsky.graph.list/YOUR_LIST_ID_HERE`);
 
 // To scrape a single handle
-scrapeDataForHandle("yourhandle.bsky.social");
+scrapeDataForHandle("ts4labels.bsky.social");
